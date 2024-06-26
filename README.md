@@ -1,5 +1,5 @@
 # Human-Action-Recognization-LSTM--2024
-Dam Thanh | Novice | Kaggle
+[Dam Thanh | Novice | Kaggle](https://www.kaggle.com/damthanh)
 ## The first uses two datasets, UCF101 and HMDB51, and is used through a machine learning technology named Kaggle, which can use Jupiter notebooks to program and use the data sets for free without downloading.
 - UCF101: https://www.kaggle.com/datasets/pevogam/ucf101/data and video file list : https://www.kaggle.com/datasets/damthanh/ucf101-videolist/data
 -	HMDB51: https://www.kaggle.com/datasets/damthanh/hmdb51full/data
